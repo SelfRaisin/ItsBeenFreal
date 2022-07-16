@@ -1,1 +1,1 @@
-assets:- name: map\eh20.map  method: copy  source:  - name: map\eh20.map
+assets:- name: map/jp/eh20.map  multi:    - name: map/eh20.map  method: copy  source:  - name: map/eh20.map
